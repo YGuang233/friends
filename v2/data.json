@@ -1,0 +1,53 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "SafeKiller_Zone",
+      "url": "https://jiangjiyue.github.io/",
+      "avatar": "https://wordpress-1258894728.cos.ap-beijing.myqcloud.com/202401260729165.jpg",
+      "screenshot": "https://wordpress-1258894728.cos.ap-beijing.myqcloud.com/202402061901753.png",
+      "description": "深入网络安全策略与渗透技巧,附简明Linux及Nginx运维实践,助力构建坚实防线."
+    },
+    {
+      "title": "一蓑烟雨的博客",
+      "url": "https://easyf12.top/",
+      "avatar": "https://bu.dusays.com/2023/12/24/6587c7764111a.webp",
+      "screenshot": "https://bu.dusays.com/2023/12/24/6587c8172c89e.png",
+      "description": "竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。"
+    },
+    {
+      "title": "钟意博客",
+      "url": "https://blog.thatcoder.cn/",
+      "description": "感谢你的阅读.",
+      "screenshot": "https://cdn.seclusion.work/hexo/stellar/image/shot.webp",
+      "avatar": "https://upyun.thatcdn.cn/hexo/stellar/image/favicon.webp"
+    },
+    {
+      "title": "SkyReeves",
+      "avatar": "https://img.skyreeves.com/main/avatar96.gif",
+      "url": "https://skyreeves.com",
+      "screenshot": "https://img.skyreeves.com/sites/screenshot.png",
+      "description": "把生命浪费在美好的事物上"
+    },
+    {
+      "title": "Chenli",
+      "url": "https://chenliss.cn/",
+      "description": "记录生活,分享生活",
+      "screenshot": "https://bu.dusays.com/2023/08/27/64ea32a1115f1.png",
+      "avatar": "https://bu.dusays.com/2023/08/27/64eb384e49c82.jpg"
+    },
+    {
+      "title": "是非题",
+      "url": "https://www.shifeiti.com",
+      "avatar": "https://other.shifeiti.com/logo/logo.png",
+      "description": "记录生活，热爱跑步，学习 FPGA 中"
+    },
+    {
+      "title": "酷小呵",
+      "url": "https://www.kuhehe.top/",
+      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=3111349763&s=100",
+      "screenshot": "",
+      "description": "爱分享的酷小呵"
+    }
+  ]
+}
